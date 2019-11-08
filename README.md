@@ -1,9 +1,13 @@
 material-theme-palenight-high-contrast.terminal
 =================
 
+MacOS Terminal theme to accompany [Material Theme](https://github.com/material-theme/vsc-material-theme) Palenight High Contrast for VSCode.
+
+This is based off of the official Material Theme Terminal port by [mvaneijgen](https://gist.github.com/mvaneijgen) found [here](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf).
+
 ## License
 
-Copyright (c) 2019 Mike Gowen
+© 2019 Mike Gowen
 
 MIT License
 
