@@ -7,7 +7,7 @@ This is based off of the official Material Theme Terminal port by [mvaneijgen](h
 
 ## License
 
-© 2020 Mike Gowen
+© 2021 Mike Gowen
 
 MIT License
 
